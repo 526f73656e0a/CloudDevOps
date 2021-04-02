@@ -1,2 +1,3 @@
-# CloudDevOps
-Homework from the CloudDevOps Course
+# rosen.nikolaev
+
+CloudDevOps lecture and exercises repository
