@@ -1,3 +1,1 @@
-# rosen.nikolaev
-
-CloudDevOps lecture and exercises repository
+# My personal CloudDevOps lecture and exercises repository
